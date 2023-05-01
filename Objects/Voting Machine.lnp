@@ -1,0 +1,3 @@
+".\Objects\VOTING MACHINE.obj" 
+TO ".\Objects\Voting Machine" 
+PRINT(".\Listings\Voting Machine.m51")
